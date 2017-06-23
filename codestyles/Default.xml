@@ -1,6 +1,4 @@
 <code_scheme name="Default">
-  <option name="HTML_ATTRIBUTE_WRAP" value="2" />
-  <option name="HTML_ALIGN_TEXT" value="true" />
   <JSCodeStyleSettings>
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
     <option name="ALIGN_MULTIPLE_ASSIGNMENTS" value="true" />
