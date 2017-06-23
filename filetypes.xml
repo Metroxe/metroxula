@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gyp" type="JSON" />
+      <mapping ext="mp4" type="Native" />
+      <mapping ext="mpeg" type="Native" />
+      <mapping pattern="sign_up.JSON" type="PLAIN_TEXT" />
+      <mapping pattern="signup_shipping.ejs" type="PLAIN_TEXT" />
+      <mapping pattern="signup-page.ejs" type="PLAIN_TEXT" />
+      <mapping pattern="SEO CMS content" type="PLAIN_TEXT" />
+      <mapping pattern=".bowercc" type="PLAIN_TEXT" />
+      <mapping pattern="project_management.ejs" type="PLAIN_TEXT" />
+      <mapping pattern="redirect_page" type="PLAIN_TEXT" />
+      <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="o" type="PLAIN_TEXT" />
+      <mapping ext="tmx" type="XML" />
+    </extensionMap>
+  </component>
+</application>
