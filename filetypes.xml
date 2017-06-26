@@ -13,6 +13,7 @@
       <mapping pattern="signup-page.ejs" type="PLAIN_TEXT" />
       <mapping pattern="project_management.ejs" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
       <mapping ext="tmx" type="XML" />
     </extensionMap>
