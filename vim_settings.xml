@@ -1,0 +1,34 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Dropbox/Github/festive_health_nodejs/routes/deals.js" timestamp="1498837455996">
+        <mark key="[" line="773" column="16" />
+        <mark key="]" line="771" column="0" />
+        <mark key="^" line="771" column="0" />
+        <mark key="." line="771" column="0" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>r</text>
+      </register>
+      <register name="-" type="4">
+        <text>r</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-cmd />
+    </history>
+    <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>
