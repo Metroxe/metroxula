@@ -6,12 +6,16 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="ActivateRedisServersToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ActivityTracker-Popup">
     <keyboard-shortcut first-keystroke="shift ctrl alt o" />
   </action>
   <action id="BaseOnThisFunction" />
   <action id="CodeCompletion" />
   <action id="Debug" />
+  <action id="Run" />
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
