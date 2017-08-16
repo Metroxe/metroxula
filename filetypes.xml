@@ -9,6 +9,7 @@
       <mapping pattern="signup-page.ejs" type="PLAIN_TEXT" />
       <mapping pattern="SEO CMS content" type="PLAIN_TEXT" />
       <mapping pattern=".bowercc" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="project_management.ejs" type="PLAIN_TEXT" />
       <mapping pattern="ab-testing.ejs" type="PLAIN_TEXT" />
       <mapping pattern="redirect_page" type="PLAIN_TEXT" />
