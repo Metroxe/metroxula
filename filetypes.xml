@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="CIVL570" type="JSON" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
     </extensionMap>
