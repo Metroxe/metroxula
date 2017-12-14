@@ -6,6 +6,7 @@
       <mapping pattern="FAKE2" type="JSON" />
       <mapping pattern="FAKE1" type="JSON" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
+      <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
