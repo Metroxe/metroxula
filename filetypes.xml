@@ -1,10 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="FAKE1" type="JSON" />
-      <mapping pattern="FAKE0" type="JSON" />
-      <mapping pattern="FAKE2" type="JSON" />
       <mapping pattern="CIVL570" type="JSON" />
+      <mapping pattern="FAKE1" type="JSON" />
+      <mapping pattern="FAKE2" type="JSON" />
+      <mapping pattern="FAKE0" type="JSON" />
+      <mapping ext="nycrc" type="JSON" />
       <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping ext="properties" type="PLAIN_TEXT" />
       <mapping ext="o" type="PLAIN_TEXT" />
