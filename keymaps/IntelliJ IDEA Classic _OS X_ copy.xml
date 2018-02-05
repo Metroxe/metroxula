@@ -1,4 +1,8 @@
 <keymap version="1" name="IntelliJ IDEA Classic (OS X) copy" parent="Mac OS X">
+  <action id="ActivateDebugToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="shift space" />
+  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="ctrl space" />
@@ -6,5 +10,21 @@
   <action id="ActivateRemoteHostToolWindow">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="ChangesView.Diff" />
   <action id="CodeCompletion" />
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.CloneRow" />
+  <action id="Console.TableResult.SelectRow" />
+  <action id="DatabaseView.CopyAction" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
 </keymap>

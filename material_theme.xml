@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="1.6.0.4" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="highlightColorEnabled" value="true" />
+    <option name="highlightThickness" value="1" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="customTreeIndent" value="8" />
+    <option name="accentColor" value="b474f6" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="25" />
+    <option name="themedScrollbars" value="false" />
+  </component>
+</application>
